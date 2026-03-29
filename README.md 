@@ -1,0 +1,13 @@
+# Advanced Network Scanner & Enumeration Tool
+
+## Features
+- Port scanning
+- Service detection
+- OS fingerprinting
+- Subdomain enumeration
+
+## Usage
+python scanner.py -t 192.168.1.1
+
+## Author
+ansilkt
